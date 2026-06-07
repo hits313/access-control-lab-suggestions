@@ -1,6 +1,6 @@
 # Access Control Lab - Suggestions and Community
 
-Community hub for [Access Range](https://access-range.vercel.app) - 21 hands-on
+Community hub for [Access Range](https://access-range.vercel.app) - 42 hands-on
 labs on broken access control, IDOR, JWT, CSRF, CORS, business logic, and
 account takeover.
 
